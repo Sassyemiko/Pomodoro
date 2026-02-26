@@ -1,4 +1,4 @@
-let timeLeft = 1 * 60; // 25 minutes in seconds
+let timeLeft = 25 * 60; // 25 minutes in seconds
 let timerId = null;
 let isRunning = false;
 
